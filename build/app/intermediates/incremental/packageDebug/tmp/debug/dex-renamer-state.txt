@@ -1,4 +1,0 @@
-#Mon Jun 28 16:39:51 BRT 2021
-base.0=/home/guilherme/Documents/ive-homologacao/ive-app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
